@@ -1,4 +1,4 @@
-# Wallet Credit Scoring
+# Wallet Credit Scoring - Aave V2
 
 ## Overview
 
